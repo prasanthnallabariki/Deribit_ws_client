@@ -8,14 +8,13 @@ What It Does:
 - Subscribes to real-time market data for those instruments.
 - Logs every incoming price update to db file.
  
-What's Inside:
-File               Purpose                                      
-main.cpp         Entry point; wires everything together       
-config.cpp/h     Loads `config.json` settings                 
-rest_api.cpp/h   Auth + fetch instrument list via REST        
-ws_client.cpp/h  Manages WebSocket connection & subscriptions 
-db_logger.cpp/h  Handles SQLite DB setup + data insertion     
-config.json      Your credentials + settings                  
+What's Inside:                                      
+main.cpp: Entry point; wires everything together       
+config.cpp/h: Loads `config.json` settings                 
+rest_api.cpp/h: Auth + fetch instrument list via REST        
+ws_client.cpp/h: Manages WebSocket connection & subscriptions 
+db_logger.cpp/h: Handles SQLite DB setup + data insertion     
+config.json: Your credentials + settings                  
 
 
 Setup (Windows, MSVC, vcpkg):
