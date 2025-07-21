@@ -1,0 +1,9 @@
+{
+  "client_id": "byxJcn6e",
+  "client_secret": "XOXGCiZWz3YoUlfxTMAGpbOSgFd7vRYJdtD_6kwhZLk",
+  "base_url": "https://test.deribit.com/api/v2",
+  "use_dynamic_instruments": true,
+  "instrument_count": 5,
+  "currency": "BTC",
+  "kind": "option"
+}

@@ -1,0 +1,3 @@
+C:/Test Project/deribit_ws_client/build/CMakeFiles/deribit_ws_client.dir
+C:/Test Project/deribit_ws_client/build/CMakeFiles/ALL_BUILD.dir
+C:/Test Project/deribit_ws_client/build/CMakeFiles/ZERO_CHECK.dir
