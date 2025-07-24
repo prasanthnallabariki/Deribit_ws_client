@@ -1,4 +1,4 @@
-								                                                                Deribit(C++)
+Deribit(C++)
 
 This is a C++ app that connects to Deribit's Testnet, pulls option instrument data via REST, subscribes to live updates over WebSocket, and logs key pricing info into a local SQLite database.
 
