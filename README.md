@@ -16,7 +16,7 @@ What's Inside:
 
 main.cpp: Entry point; wires everything together   
 
-config.cpp/h: Loads `config.json` settings
+config.cpp/h: Loads config.json settings
 
 rest_api.cpp/h: Auth + fetch instrument list via REST
 
